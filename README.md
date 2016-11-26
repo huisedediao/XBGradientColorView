@@ -1,7 +1,7 @@
 # XBGradientColorView
 渐变色view<br/>
 ###效果：<br/>
-![image](https://github.com/huisedediao/XBGradientColorView/raw/master/show.png)<br/>
+![image](https://github.com/huisedediao/XBGradientColorView/raw/master/showNew.png)<br/>
 
 
 ###示例代码：
