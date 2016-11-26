@@ -19,5 +19,5 @@
 +(NSMutableArray *)RGBAComponentsFromColor:(UIColor *)color;
 
 /** UIColor转16进制字符串 */
-+ (NSMutableArray *) changeUIColorToRGB:(UIColor *)color;
++ (NSString *) changeUIColorToRGB:(UIColor *)color;
 @end
